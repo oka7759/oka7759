@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=컬러_종류_또는_코드&height=높이&section=header&text=텍스트)
